@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1500071112 source:c:\users\fabio\desktop\tp3\estacionamento\main1.c
+	<stdio.h>
+	"deque.h"
+
+1500072752 c:\users\fabio\desktop\tp3\estacionamento\deque.h
+
+1500071152 source:c:\users\fabio\desktop\tp3\estacionamento\main_testes.c
+	<stdio.h>
+	<stdlib.h>
+	"deque.h"
+
+1500072778 source:c:\users\fabio\desktop\tp3\estacionamento\deque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deque.h"
+
